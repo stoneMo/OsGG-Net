@@ -1,0 +1,6 @@
+face-alignment==1.2.0
+numpy
+opencv-python
+torch
+torchvision
+configargparse
