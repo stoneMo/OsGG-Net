@@ -84,7 +84,7 @@ Just remember to check which dataset type you want to use in the shell and you a
 @inproceedings{mo2021osggnet,
   title={OsGG-Net: One-step Graph Generation Network for Unbiased Head Pose Estimation},
   author={Shentong Mo and Miao Xin},
-  booktitle={Proceedings of the 29th ACM Int'l Conference on Multimedia},
+  booktitle={Proceedings of the 29th ACM International Conference on Multimedia},
   year={2021}
 }
 
