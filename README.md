@@ -70,3 +70,10 @@ bash run_AFLW.bash
 ```
 
 Just remember to check which dataset type you want to use in the shell and you are good to go. Note that we calculate the MAE of yaw, pitch, roll independently, and average them into one single MAE for evaluation.
+
+@inproceedings{mo2021osggnet,
+  title={OsGG-Net: One-step Graph Generation Network for Unbiased Head Pose Estimation},
+  author={Shentong Mo and Miao Xin},
+  booktitle={Proceedings of the 29th ACM Int'l Conference on Multimedia},
+  year={2021}
+}
