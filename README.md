@@ -1,7 +1,5 @@
 
-# OsGG-Net
-
-**OsGG-Net: One-step Graph Generation Network for Unbiased Head Pose Estimation**
+# OsGG-Net: One-step Graph Generation Network for Unbiased Head Pose Estimation**
 
 [accepted to 2021 ACM MM]
 
