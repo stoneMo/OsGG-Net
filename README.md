@@ -6,7 +6,7 @@
 [accepted to 2021 ACM MM]
 
 
-![alt text](https://github.com/stoneMo/EVA-GCN/blob/main/imgs/title_image.png?raw=true)
+![alt text](https://github.com/stoneMo/OsGG-Net/blob/main/imgs/title_image.png?raw=true)
 
 ## Abstract
 
